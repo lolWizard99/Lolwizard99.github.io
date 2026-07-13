@@ -2,8 +2,8 @@
 ## Environmental Data Science Short Course
 
 Hello my name is LolWizard99!
--Baller
--Shot-Caller
--20" blades on the Impala
+- Baller
+- Shot-Caller
+- 20" blades on the Impala
 
 You can download my album at [Sound Cloud](soundcloud.com)
